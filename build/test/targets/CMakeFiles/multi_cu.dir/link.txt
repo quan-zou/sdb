@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/multi_cu.dir/multi_cu_main.cpp.o CMakeFiles/multi_cu.dir/multi_cu_other.cpp.o -o multi_cu 

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/marshmallow.dir/marshmallow.cpp.o -o marshmallow  -Wl,-rpath,/home/quanz/compiler/sdb/build/test/targets libmeow.so 
